@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hennn112&label=Profile%20views&color=0e75b6&style=flat" alt="hennn112" /> </p>
 
-- 🌱 I’m currently learning **HTML, PHP, CSS**
+- 🌱 I’m currently learning **HTML, PHP, CSS, JAVASCRIPT, PYTHON**
 
-- 💬 Ask me about **PHP, HTML**
+- 💬 Ask me about **PHP, JAVASCRIPT, PYTHON**
 
 - 📫 How to reach me **mohamadaristian10@gmail.com**
 
